@@ -1,2 +1,1 @@
-# startship-launch
-satellite launch startship
+This is README
